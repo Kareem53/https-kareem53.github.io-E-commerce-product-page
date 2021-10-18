@@ -260,7 +260,12 @@ hr{
     display: none;
 }
 
-
+@media (min-width: 767xc){
+    main-img:hover{
+        cursor: pointer;
+    }
+}    
+        
 
 @media (max-width: 767px){
     body{
